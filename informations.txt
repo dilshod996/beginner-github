@@ -2,3 +2,4 @@ Name: Dilshod
 Surname: Nurmamatov
 Education: Junior student of Gachon University
 Age: 25
+Country: Uzbekistan
